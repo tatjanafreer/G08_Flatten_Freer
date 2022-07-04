@@ -3,3 +3,4 @@
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
 Documents/GitHub/G08_Flatten_Freer/Library/** filter=lfs diff=lfs merge=lfs -text
 C:/Users/Nutzer/Documents/GitHub/G08_Flatten_Freer/VR-Quiz-Anwendung/Library filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
